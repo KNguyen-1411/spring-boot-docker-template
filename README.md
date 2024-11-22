@@ -80,7 +80,7 @@ The application supports:
 ## Author
 
 **Khánh Nguyên**
-**30-11-2024**
+**22-11-2024**
 
 ## License
 
